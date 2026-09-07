@@ -4,7 +4,6 @@ import CurrencyRow from './CurrencyRow';
 import ConverterLogo from './assets/converterlogo.png'
 
 // const endpoint = 'latest'
-// const access_key = '0aGmcEb3fjGGrvVpsJxqMU0jwTzDDFa8';
 
 
 const BASE_URL = 'https://open.er-api.com/v6/latest/USD'
